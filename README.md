@@ -62,10 +62,11 @@ The gas sensor collects air quality data and sends the readings to the ESP32 mic
 
 ---
 
-## Author
--Thershna TK
--Muhammed Ibrahim
--Sidharth D Nair
--A.V Lohith
+## Authors
 
-VIT Chennai
+- **Thershna TK** (@Thershna)
+- **Muhamed Ibrahim** 
+- **Sidharth D Nair**
+- **A.V Lohith** 
+
+**Institution:** VIT Chennai
